@@ -110,7 +110,7 @@ MCP-specific logs are written to `logs/mcp/`:
 
 ### Cursor IDE
 
-See [CURSOR_INTEGRATION.md](../../CURSOR_INTEGRATION.md) for setup instructions.
+See CURSOR_INTEGRATION.md (not included in this checkout) for setup instructions.
 
 ### Claude Desktop
 
@@ -169,9 +169,9 @@ echo '{"jsonrpc": "2.0", "id": 1, "method": "tools/list", "params": {}}' | pytho
 ## Documentation
 
 - **[TOOLS.md](TOOLS.md)** - Complete tool documentation
-- **[../CURSOR_INTEGRATION.md](../CURSOR_INTEGRATION.md)** - Cursor setup guide
-- **[../MCP_CLIENT_EXAMPLES.md](../MCP_CLIENT_EXAMPLES.md)** - Client configuration examples
-- **[../README.md](../README.md)** - Main project documentation
+- **../CURSOR_INTEGRATION.md (not included in this checkout)** - Cursor setup guide
+- **../MCP_CLIENT_EXAMPLES.md (not included in this checkout)** - Client configuration examples
+- **[../README.md](../../README.md)** - Main project documentation
 
 ## Support
 

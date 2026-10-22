@@ -100,11 +100,11 @@ Alert → SOC1 → SOC2 → SOC3
 - **SOC2** performs correlation and can escalate to SOC3 for response actions
 - **SOC3** executes containment and forensic collection
 
-See [SOC_TIER_ORGANIZATION_PLAN.md](./SOC_TIER_ORGANIZATION_PLAN.md) for detailed escalation criteria and workflows.
+See SOC_TIER_ORGANIZATION_PLAN.md (not included in this checkout) for detailed escalation criteria and workflows.
 
 ## Usage Examples
 
-See [USAGE_EXAMPLES.md](./USAGE_EXAMPLES.md) for practical examples of how to use these runbooks with the SamiGPT MCP server.
+See USAGE_EXAMPLES.md (not included in this checkout) for practical examples of how to use these runbooks with the SamiGPT MCP server.
 
 ## References
 
